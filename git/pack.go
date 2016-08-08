@@ -13,7 +13,7 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/gitchain/gitchain/util"
+	"github.com/denkhaus/gitchain/util"
 )
 
 const (

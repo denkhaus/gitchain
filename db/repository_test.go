@@ -6,9 +6,9 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/gitchain/gitchain/repository"
-	"github.com/gitchain/gitchain/types"
-	"github.com/gitchain/gitchain/util"
+	"github.com/denkhaus/gitchain/repository"
+	"github.com/denkhaus/gitchain/types"
+	"github.com/denkhaus/gitchain/util"
 	"github.com/stretchr/testify/assert"
 )
 

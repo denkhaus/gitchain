@@ -3,7 +3,7 @@ package api
 import (
 	"net/http"
 
-	"github.com/gitchain/gitchain/server/context"
+	"github.com/denkhaus/gitchain/server/context"
 	"github.com/inconshreveable/log15"
 )
 

@@ -8,10 +8,10 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/gitchain/gitchain/server/api"
-	"github.com/gitchain/gitchain/server/context"
-	"github.com/gitchain/gitchain/server/git"
-	"github.com/gitchain/gitchain/ui"
+	"github.com/denkhaus/gitchain/server/api"
+	"github.com/denkhaus/gitchain/server/context"
+	"github.com/denkhaus/gitchain/server/git"
+	"github.com/denkhaus/gitchain/ui"
 	"github.com/gorilla/mux"
 )
 

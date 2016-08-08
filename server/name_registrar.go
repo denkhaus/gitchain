@@ -3,11 +3,11 @@ package server
 import (
 	"bytes"
 
-	"github.com/gitchain/gitchain/block"
-	"github.com/gitchain/gitchain/repository"
-	"github.com/gitchain/gitchain/server/context"
-	"github.com/gitchain/gitchain/transaction"
-	"github.com/gitchain/gitchain/util"
+	"github.com/denkhaus/gitchain/block"
+	"github.com/denkhaus/gitchain/repository"
+	"github.com/denkhaus/gitchain/server/context"
+	"github.com/denkhaus/gitchain/transaction"
+	"github.com/denkhaus/gitchain/util"
 	"github.com/inconshreveable/log15"
 )
 

@@ -3,7 +3,7 @@ package transaction
 import (
 	"testing"
 
-	"github.com/gitchain/gitchain/util"
+	"github.com/denkhaus/gitchain/util"
 	"github.com/stretchr/testify/assert"
 )
 

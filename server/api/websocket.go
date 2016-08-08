@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/gitchain/gitchain/block"
-	"github.com/gitchain/gitchain/server/context"
+	"github.com/denkhaus/gitchain/block"
+	"github.com/denkhaus/gitchain/server/context"
 	"github.com/gorilla/websocket"
 	"github.com/inconshreveable/log15"
 )

@@ -7,8 +7,8 @@ import (
 	"encoding/gob"
 	"math/big"
 
-	"github.com/gitchain/gitchain/keys"
-	"github.com/gitchain/gitchain/util"
+	"github.com/denkhaus/gitchain/keys"
+	"github.com/denkhaus/gitchain/util"
 )
 
 type KeyAuth struct {

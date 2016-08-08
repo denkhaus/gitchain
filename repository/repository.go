@@ -5,7 +5,7 @@ import (
 	"encoding/gob"
 	"encoding/hex"
 
-	"github.com/gitchain/gitchain/types"
+	"github.com/denkhaus/gitchain/types"
 )
 
 const (

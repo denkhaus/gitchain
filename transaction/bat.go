@@ -5,7 +5,7 @@ import (
 	"encoding/gob"
 	"encoding/json"
 
-	"github.com/gitchain/gitchain/types"
+	"github.com/denkhaus/gitchain/types"
 )
 
 func init() {

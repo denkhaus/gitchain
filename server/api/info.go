@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"runtime"
 
-	"github.com/gitchain/gitchain/block"
-	"github.com/gitchain/gitchain/server"
-	"github.com/gitchain/gitchain/server/context"
+	"github.com/denkhaus/gitchain/block"
+	"github.com/denkhaus/gitchain/server"
+	"github.com/denkhaus/gitchain/server/context"
 	"github.com/inconshreveable/log15"
 )
 

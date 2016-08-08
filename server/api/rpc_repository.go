@@ -4,8 +4,8 @@ import (
 	"encoding/hex"
 	"net/http"
 
-	"github.com/gitchain/gitchain/repository"
-	"github.com/gitchain/gitchain/server/context"
+	"github.com/denkhaus/gitchain/repository"
+	"github.com/denkhaus/gitchain/server/context"
 	"github.com/inconshreveable/log15"
 )
 

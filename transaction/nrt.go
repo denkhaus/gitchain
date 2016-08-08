@@ -8,8 +8,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/gitchain/gitchain/types"
-	"github.com/gitchain/gitchain/util"
+	"github.com/denkhaus/gitchain/types"
+	"github.com/denkhaus/gitchain/util"
 )
 
 func init() {

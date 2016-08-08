@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/gitchain/gitchain/server/context"
+	"github.com/denkhaus/gitchain/server/context"
 	"github.com/gorilla/rpc"
 	"github.com/gorilla/rpc/json"
 	"github.com/inconshreveable/log15"

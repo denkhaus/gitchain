@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/gob"
 
-	"github.com/gitchain/gitchain/types"
+	"github.com/denkhaus/gitchain/types"
 	"github.com/gitchain/wendy"
 )
 

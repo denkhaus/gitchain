@@ -4,9 +4,9 @@ import (
 	"crypto/ecdsa"
 	"testing"
 
-	"github.com/gitchain/gitchain/keys"
-	trans "github.com/gitchain/gitchain/transaction"
-	"github.com/gitchain/gitchain/types"
+	"github.com/denkhaus/gitchain/keys"
+	trans "github.com/denkhaus/gitchain/transaction"
+	"github.com/denkhaus/gitchain/types"
 	"github.com/stretchr/testify/assert"
 )
 

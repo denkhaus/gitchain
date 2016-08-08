@@ -9,7 +9,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/gitchain/gitchain/util"
+	"github.com/denkhaus/gitchain/util"
 )
 
 type Hash []byte
